@@ -17,7 +17,7 @@ const SignIn = () => {
 
        loginUser(email, password)
         .then((res)=>{
-            console.log(res.user)
+            console.log("sign in" , res.user)
         })
         .catch(err=>{
             console.log(err)
