@@ -22,8 +22,7 @@ const Banner = () => {
                     transition={{duration: 4, delay:1, repeat: Infinity}}
                     >Latest Job For You</motion.h1>
                     <p className="py-6">
-                        Provident cupiditate voluptatem et in. Quaerat fugiat ut assumenda excepturi exercitationem
-                        quasi. In deleniti eaque aut repudiandae et a id nisi.
+                        Provident cupiditate voluptatem et in. Quaerat fugiat ut assumenda exceptu. 
                     </p>
                     <button className="btn btn-primary">Get Started</button>
                 </div>
